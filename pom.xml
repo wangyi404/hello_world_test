@@ -34,7 +34,7 @@
     </dependencies>
 
     <build>
-        <finalName>springBoot-hello-world-test</finalName>
+        <finalName>springboot-hello-world-test</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
